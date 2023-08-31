@@ -34,7 +34,7 @@ Place your 'client_secrets.json' file path as value of client_secrets_file insid
     ```sh
     cd simple-google-drive-uploader
 
-    python3 -m vevn venv
+    python3 -m venv venv
     source venv/bin/activate
 
     pip3 install -r requirements.txt
