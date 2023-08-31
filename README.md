@@ -5,7 +5,7 @@
 
 <br />
 <div align="center">
-  <h3 align="center">Simple Google Drive Uploader</h3>
+  <h3 align="center">Google Drive Simple File Uploader</h3>
 
   <p align="center">
     A simple project to upload a file on your Google Drive using Python.
